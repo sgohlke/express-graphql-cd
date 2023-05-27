@@ -13,7 +13,7 @@ const customGraphQLServer = new GraphQLServer(
     {
         schema: userSchema,
         rootValue: userSchemaResolvers,
-        logger:  new JsonLogger('koaServer', 'user-service'),
+        logger:  new JsonLogger('express-server', 'user-service'),
     }
 )
 
