@@ -19,13 +19,13 @@
   },
   "homepage": "https://github.com/sgohlke/express-graphql-cd#readme",
   "devDependencies": {
-    "@sgohlke/ts-base-dependencies": "1.0.15",
+    "@sgohlke/ts-base-dependencies": "1.0.18",
     "@types/express": "^4.17.17"
   },
   "dependencies": {
-    "@dreamit/graphql-server": "4.2.5",
+    "@dreamit/graphql-server": "4.2.6",
     "express": "4.18.2",
-    "graphql": "16.7.1"
+    "graphql": "16.8.0"
   },
   "engines": {
     "node": ">=18"
