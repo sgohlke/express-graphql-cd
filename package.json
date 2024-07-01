@@ -20,7 +20,7 @@
   "homepage": "https://github.com/sgohlke/express-graphql-cd#readme",
   "devDependencies": {
     "@types/express": "4.17.21",
-    "@types/node": "20.14.8",
+    "@types/node": "20.14.9",
     "eslint-plugin-deprecation": "3.0.0",
     "eslint-plugin-import": "2.29.1",
     "eslint-plugin-unicorn": "54.0.0",
